@@ -8,7 +8,7 @@ public class Main {
         printColor();
         compareNumbers();
     }
-        void printThreeWords() {
+        static void printThreeWords() {
 
             System.out.println("Orange");
             System.out.println("Banana");
